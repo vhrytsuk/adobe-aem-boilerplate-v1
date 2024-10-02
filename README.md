@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--adobe-aem-boilerplate-v1--vhrytsuk.aem.page/
-- Live: https://main--adobe-aem-boilerplate-v1--vhrytsuk.aem.live/
+- Preview: https://main--edge-adobe-aem-boilerplate--vhrytsuk.aem.page/
+- Live: https://main--edge-adobe-aem-boilerplate--vhrytsuk.aem.live/
 
 ## Installation
 
